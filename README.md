@@ -1,2 +1,7 @@
-# OIBGRIP
-converting the units from one another. This take input from the user and convert it to the desired unit and give the result. For example, it will be able to convert a value in centimeters to Meters or grams to kilograms and vice versa.
+TASK 1:-
+Calculator with basic mathematical functionalities using CSS, HTML, and JavaScript. Calculators require an interactive interface to perform basic functions such as addition, subtraction, division, and multiplication. It will need a  display screen to display the user’s input and give the results. The grid system in CSS is for the alignments of buttons on the calculator. The additional tools you need to build a fully functional calculator include eventListeners, if-else statements, operators, loops, and so on. 
+TASK2:-
+With a basic understanding of HTML and CSS, you can easily create a page for someone you admire. Write about what you adore in the person, add images, give an appealing layout, use paragraphs appropriately. You can also play around with different font styles and background colors.
+TASK3:-
+A basic to-do app that enables a user to add daily tasks.
+The to-do web app must allow users to add new items to a list, and items added to a list must be visible. Also, a user can mark a task “complete” upon its successful completion, and these completed tasks must appear on a separate list, say Completed Tasks.adding a separate section titled Pending Tasks that will list all the tasks that require completion. In such a case, the to-do list will be a union of the Pending Tasks list and the Completed Tasks list. Irrespective of the list, a user must be able to delete or edit tasks from it.To further increase the web app's complexity or make it more detailed, you can add the date and time when a task is added and/or completed.
